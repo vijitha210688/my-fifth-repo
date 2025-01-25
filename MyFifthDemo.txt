@@ -1,1 +1,3 @@
 This is my Fifth demo in Git.
+this is my fifth demo in git.
+This is my Fifth demo in Git.
